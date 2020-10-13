@@ -1,0 +1,14 @@
+
+ Code equivalent: 0000
+  Code equivalent: 100
+d Code equivalent: 1011
+e Code equivalent: 11
+m Code equivalent: 001
+n Code equivalent: 011
+o Code equivalent: 010
+r Code equivalent: 0001
+y Code equivalent: 1010
+********
+Number of characters: 18
+Number of bits: 54
+000000101000011110000101001111101010001111111011111011
